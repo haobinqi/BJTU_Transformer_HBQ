@@ -1,0 +1,10 @@
+torch>=1.10
+numpy
+sentencepiece
+matplotlib
+tqdm
+sacrebleu
+typing-extensions
+torchtext
+# 可选，用于更稳定的训练日志：
+tensorboard
